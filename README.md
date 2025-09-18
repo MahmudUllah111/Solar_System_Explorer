@@ -4,6 +4,7 @@ This is a web-based application that allows users to explore the planets of our 
 It provides an interactive and visually appealing interface to learn about each planet, including fun facts and astronomical data.
 
 Features:
+
 Interactive Interface: Click or tap on a planet to see its information.
 
 Detailed Information: Each planet's page includes a description and interesting facts.
